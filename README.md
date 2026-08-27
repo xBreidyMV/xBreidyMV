@@ -31,13 +31,6 @@ Actualmente exploro el desarrollo web, la automatización, la inteligencia artif
 
 ## 🏗️ Proyecto principal
 
-### 🚀 Project Genesis
-
-Estoy trabajando en **Project Genesis**, una iniciativa enfocada en crear herramientas, software y soluciones tecnológicas.
-
-Creado por:
-
-**xZapper263**
 
 ---
 
@@ -74,9 +67,9 @@ Creado por:
 
 ## 🌐 Encuéntrame
 
-GitHub: **@xZapper263**  
-Instagram: **@xZapper263**  
-Contacto: **only dc.**
+GitHub: **@xBreidyMV**  
+Instagram: **@its.xbreidy.mv**  
+Contacto: **https://discord.com/invite/dserUaYK64**
 
 ---
 
