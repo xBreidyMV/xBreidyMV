@@ -69,7 +69,7 @@ Actualmente exploro el desarrollo web, la automatización, la inteligencia artif
 
 GitHub: **[@xBreidyMV](https://github.com/xBreidyMV)**  
 Instagram: **[@its.xbreidy.mv](https://instagram.com/its.xbreidy.mv)**  
-Contacto: **[Discord Comunity](https://discord.com/invite/dserUaYK64)**
+Contacto: **[Discord Comunity](https://dc.gg/xbreidymv_)**
 
 ---
 
