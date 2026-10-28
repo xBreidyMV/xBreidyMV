@@ -1,76 +1,46 @@
-# 👋 Hola, soy **xBreidyMV**
+# 👋 Hola, soy Breidy
 
-Soy **xBreidyMV**.
+Soy un desarrollador en formación interesado en crear software útil y convertir ideas en proyectos reales. Ahora estoy fortaleciendo mis bases en desarrollo web, automatización e inteligencia artificial.
 
-Soy un "desarrollador" en formación apasionado por la tecnología, la creación de software y convertir ideas en proyectos reales mediante código 💻🚀.
+## 🚀 En qué estoy enfocado
 
-Actualmente exploro el desarrollo web, la automatización, la inteligencia artificial y la construcción de herramientas digitales. Me gusta aprender, experimentar y compartir el proceso de crear.
+- JavaScript, HTML y CSS
+- React, Vite y Tailwind CSS
+- Node.js y creación de APIs
+- Python para automatización
+- Supabase y PostgreSQL
+- Git y GitHub
 
----
+## 🧵 Proyecto personal: Patchwork
 
-## 🚀 Actualmente estoy aprendiendo
+**Patchwork** es una idea independiente de AethelDevs que estoy definiendo. Busca conservar el contexto técnico de un proyecto relacionando cambios de código con decisiones, problemas y soluciones.
 
-- **HTML, CSS y JavaScript**
-- **React** y desarrollo web moderno
-- **Node.js** y creación de APIs
-- **Python** para automatización y proyectos
-- **Git y GitHub** para desarrollo colaborativo
+El MVP que estoy explorando incluye conectar un repositorio de GitHub, registrar decisiones técnicas y consultarlas junto a commits y pull requests. Para el prototipo estoy considerando React, Vite, TypeScript y Tailwind CSS, con Supabase para los datos y la autenticación.
 
----
+> El proyecto está en etapa de planificación; iré actualizando esta sección cuando haya avances publicados.
 
-## 🧠 Mis intereses
+## 🛠️ Tecnologías que estoy aprendiendo
 
-- Desarrollo de **aplicaciones web**
-- Diseño de **interfaces modernas**
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-learning-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-learning-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-learning-06B6D4?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-learning-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-exploring-3FCF8E?logo=supabase&logoColor=white)
+
+## 🧠 Intereses
+
+- Aplicaciones web y diseño de interfaces
 - Arquitectura de software
-- Automatización de procesos
-- Inteligencia artificial
-- Creación de proyectos propios y código abierto
-
----
-
-## 🏗️ Proyecto principal
-
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-### 💻 Lenguajes
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=cascadingstylesheets&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Frameworks y Librerías
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🧰 Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Codium](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocodium&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-
-## 📌 Proyectos destacados
-
-🚧 Próximamente publicaré proyectos, herramientas y experimentos en los que estoy trabajando.
-
----
+- Automatización e inteligencia artificial
+- Proyectos personales y código abierto
 
 ## 🌐 Encuéntrame
 
-GitHub: **[@xBreidyMV](https://github.com/xBreidyMV)**  
-Instagram: **[@its.xbreidy.mv](https://instagram.com/its.xbreidy.mv)**  
-Contacto: **[Discord Comunity](https://dc.gg/xbreidymv_)**
+- [GitHub](https://github.com/xBreidyMV)
+- [Instagram](https://instagram.com/its.xbreidy.mv)
 
 ---
 
-> "Construir, aprender y mejorar. Cada línea de código es un paso hacia algo más grande." 🚀
+*Construir, aprender y mejorar: cada proyecto es una oportunidad para dar el siguiente paso.* 🚀
