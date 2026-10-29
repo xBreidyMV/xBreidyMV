@@ -4,7 +4,6 @@
   src="https://github.com/xBreidyMV.png?size=200"
   width="150"
   height="150"
-  style="border-radius: 50%;"
   alt="Foto de perfil de xBreidyMV"
 />
 
@@ -24,10 +23,12 @@ Construyendo software útil, explorando nuevas tecnologías y convirtiendo ideas
   <a href="https://instagram.com/its.xbreidy.mv">
     <img src="https://img.shields.io/badge/Instagram-its.xbreidy.mv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://xbreidymv.vercel.app/">
+    <img src="https://img.shields.io/badge/Ver%20portafolio-Visitar-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver portafolio profesional" />
+  </a>
 </p>
 
 </div>
-
 
 ---
 
