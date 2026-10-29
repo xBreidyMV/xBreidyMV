@@ -28,11 +28,14 @@ Construyendo software útil, explorando nuevas tecnologías y convirtiendo ideas
 
 </div>
 
+
 ---
+
 
 <div align="center">
 
 ## 👨‍💻 Sobre mí
+
 
 Me interesa construir software útil, explorar soluciones técnicas y convertir ideas en proyectos reales.
 
@@ -46,9 +49,12 @@ Estoy fortaleciendo mis habilidades en desarrollo web, APIs, automatización y h
 
 </div>
 
+
 ---
 
+
 <div align="center">
+
 
 ## 🚧 Proyectos destacados
 
@@ -78,6 +84,7 @@ Busca relacionar decisiones técnicas, problemas y soluciones con commits y pull
 
 </div>
 
+
 ---
 
 <div align="center">
@@ -98,18 +105,15 @@ Busca relacionar decisiones técnicas, problemas y soluciones con commits y pull
 
 </div>
 
+
 ---
 
+
 <div align="center">
-
-## 🌐 Contacto
-
-[![GitHub](https://img.shields.io/badge/GitHub-xBreidyMV-181717?style=for-the-badge&logo=github)](https://github.com/xBreidyMV)
-[![X](https://img.shields.io/badge/X-xbreidymv__-000000?style=for-the-badge&logo=x)](https://x.com/xbreidymv_)
-[![Instagram](https://img.shields.io/badge/Instagram-its.xbreidy.mv-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/its.xbreidy.mv)
-
+ 
 ### 🚀 Construir · Aprender · Mejorar
 
 *Cada proyecto es una oportunidad para dar el siguiente paso.*
+
 
 </div>
